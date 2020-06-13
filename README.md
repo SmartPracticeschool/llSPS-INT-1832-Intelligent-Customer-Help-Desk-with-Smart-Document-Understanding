@@ -70,16 +70,16 @@
 ## What will you get to know here?
 
 
-1. How to [create a skill](skill.md) using Watson Assistant.
+1. How to [create a skill](skill-simple-customer-care.json) using Watson Assistant.
 
 
-2. How to [create UI](flow.md) with node red flow (Chatbot).
+2. How to [create UI](flows.json) with node red flow (Chatbot).
 
 
-3. How to [create cloud function](Cf.md) using IBM cloud.
+3. How to [create cloud function](Cloudfunction.js) using IBM cloud.
 
 
-4. How to [connect Watson discovery](Discovery.md) to chatbot through Cloud funtcion.
+4. How to [connect Watson discovery] to chatbot through Cloud funtcion.
 
 
 
